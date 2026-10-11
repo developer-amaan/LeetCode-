@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/amanullah1739/LeetCode-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/amanullah1739/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Interactive
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/amanullah1739/LeetCode-/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/amanullah1739/LeetCode-/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanullah1739/LeetCode-/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amanullah1739/LeetCode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
