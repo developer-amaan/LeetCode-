@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/amanullah1739/LeetCode-/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/amanullah1739/LeetCode-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/amanullah1739/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
