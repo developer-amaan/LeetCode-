@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amanullah1739/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amanullah1739/LeetCode-/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/amanullah1739/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/amanullah1739/LeetCode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amanullah1739/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/amanullah1739/LeetCode-/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanullah1739/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/amanullah1739/LeetCode-/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/amanullah1739/LeetCode-/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/amanullah1739/LeetCode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amanullah1739/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/amanullah1739/LeetCode-/tree/master/0704-binary-search) |
