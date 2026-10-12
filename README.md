@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amanullah1739/LeetCode-/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/amanullah1739/LeetCode-/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
