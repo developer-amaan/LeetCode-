@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amanullah1739/LeetCode-/tree/master/0231-power-of-two) |
 ## Newton's Method
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
