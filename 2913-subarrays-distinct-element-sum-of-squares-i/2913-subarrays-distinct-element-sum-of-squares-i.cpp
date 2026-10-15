@@ -1,15 +1,18 @@
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
-        int sum=0;        
-        for(int i=0;i<nums.size();i++){
-            set<int>ans;
-         for(int j=i;j<nums.size();j++){
-            ans.insert(nums[j]);
-            int n=ans.size();
-            sum+=n*n;
-         }
+        int n = nums.size();
+        int ans = 0;
+        for(int i=0; i<n; i++){
+            set<int> st;
+            for(int j=i; j<n; j++){
+                st.insert(nums[j]);
+                ans+= st.size()*st.size();
+            }
+
+
         }
-        return sum;
+        return ans;
+        
     }
 };
