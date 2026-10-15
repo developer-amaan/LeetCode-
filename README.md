@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanullah1739/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amanullah1739/LeetCode-/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amanullah1739/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/amanullah1739/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/amanullah1739/LeetCode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amanullah1739/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amanullah1739/LeetCode-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amanullah1739/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Indexed Tree
