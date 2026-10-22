@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amanullah1739/LeetCode-/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/amanullah1739/LeetCode-/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/amanullah1739/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amanullah1739/LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/amanullah1739/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/amanullah1739/LeetCode-/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/amanullah1739/LeetCode-/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amanullah1739/LeetCode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/amanullah1739/LeetCode-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/amanullah1739/LeetCode-/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amanullah1739/LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/amanullah1739/LeetCode-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/amanullah1739/LeetCode-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/amanullah1739/LeetCode-/tree/master/0292-nim-game) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amanullah1739/LeetCode-/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/amanullah1739/LeetCode-/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amanullah1739/LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amanullah1739/LeetCode-/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
