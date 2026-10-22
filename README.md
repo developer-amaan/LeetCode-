@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amanullah1739/LeetCode-/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/amanullah1739/LeetCode-/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/amanullah1739/LeetCode-/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanullah1739/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/amanullah1739/LeetCode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
