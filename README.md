@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/amanullah1739/LeetCode-/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/amanullah1739/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/amanullah1739/LeetCode-/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amanullah1739/LeetCode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amanullah1739/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amanullah1739/LeetCode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amanullah1739/LeetCode-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0234-palindrome-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amanullah1739/LeetCode-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amanullah1739/LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amanullah1739/LeetCode-/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/amanullah1739/LeetCode-/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/amanullah1739/LeetCode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Indexed Tree
 |  |
