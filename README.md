@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amanullah1739/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amanullah1739/LeetCode-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amanullah1739/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/amanullah1739/LeetCode-/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -185,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amanullah1739/LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amanullah1739/LeetCode-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
