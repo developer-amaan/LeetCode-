@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/amanullah1739/LeetCode-/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/amanullah1739/LeetCode-/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanullah1739/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amanullah1739/LeetCode-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/amanullah1739/LeetCode-/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/amanullah1739/LeetCode-/tree/master/3701-compute-alternating-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/amanullah1739/LeetCode-/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/amanullah1739/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amanullah1739/LeetCode-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Interactive
 |  |
