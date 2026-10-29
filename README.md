@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/amanullah1739/LeetCode-/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanullah1739/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/amanullah1739/LeetCode-/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/amanullah1739/LeetCode-/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/amanullah1739/LeetCode-/tree/master/1920-build-array-from-permutation) |
+| [3701-compute-alternating-sum](https://github.com/amanullah1739/LeetCode-/tree/master/3701-compute-alternating-sum) |
 ## Prefix Sum
 |  |
 | ------- |
