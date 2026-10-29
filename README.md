@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/amanullah1739/LeetCode-/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/amanullah1739/LeetCode-/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanullah1739/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3467-transform-array-by-parity](https://github.com/amanullah1739/LeetCode-/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/amanullah1739/LeetCode-/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amanullah1739/LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amanullah1739/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/amanullah1739/LeetCode-/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [3467-transform-array-by-parity](https://github.com/amanullah1739/LeetCode-/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |
