@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amanullah1739/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/amanullah1739/LeetCode-/tree/master/0704-binary-search) |
+| [1512-number-of-good-pairs](https://github.com/amanullah1739/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/amanullah1739/LeetCode-/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/amanullah1739/LeetCode-/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanullah1739/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/amanullah1739/LeetCode-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/amanullah1739/LeetCode-/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/amanullah1739/LeetCode-/tree/master/0367-valid-perfect-square) |
+| [1512-number-of-good-pairs](https://github.com/amanullah1739/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amanullah1739/LeetCode-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amanullah1739/LeetCode-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amanullah1739/LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amanullah1739/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/amanullah1739/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanullah1739/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/amanullah1739/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/amanullah1739/LeetCode-/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |
