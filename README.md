@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amanullah1739/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amanullah1739/LeetCode-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amanullah1739/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/amanullah1739/LeetCode-/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/amanullah1739/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/amanullah1739/LeetCode-/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/amanullah1739/LeetCode-/tree/master/2000-reverse-prefix-of-word) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanullah1739/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amanullah1739/LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/amanullah1739/LeetCode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amanullah1739/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/amanullah1739/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanullah1739/LeetCode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanullah1739/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amanullah1739/LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amanullah1739/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/amanullah1739/LeetCode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amanullah1739/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/amanullah1739/LeetCode-/tree/master/3467-transform-array-by-parity) |
 ## Simulation
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amanullah1739/LeetCode-/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/amanullah1739/LeetCode-/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/amanullah1739/LeetCode-/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
