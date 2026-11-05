@@ -7,9 +7,10 @@ public:
                 st.push(ch);
             }
             else{
-                if(st.empty()) return false;
-
-                if(ch==')' && st.top()=='('){
+                if(st.empty()){
+                    return false;
+                }
+                else if(ch==')' && st.top()=='('){
                     st.pop();
                 }
                 else if(ch=='}' && st.top()=='{'){
@@ -21,9 +22,11 @@ public:
                 else{
                     return false;
                 }
+                
             }
+
         }
-        return st.empty();
+        return (st.empty());
         
     }
 };
